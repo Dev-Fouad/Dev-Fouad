@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Fouad
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 Anything JavaScript 🧘‍♂️
 - Chelsea 💙
 
 <!---
