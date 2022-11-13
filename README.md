@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Fouad
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript 
-- I love to play Chess
+- Chelsea 💙
 
 <!---
 Dev-Fouad/Dev-Fouad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
