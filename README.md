@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Dev-Fouad
 - 👀 I’m interested in web development 
 - 🌱 Anything JavaScript 🧘‍♂️
-- Chelsea 💙
+- Chelsea 💙4L
 
 
 <!---
