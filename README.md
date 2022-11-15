@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Fouad damisi
 - 👀 I’m interested in web development 
 - 🌱 Anything JavaScript 🧘‍♂️
-- Chelsea 💙4L
+- Chelsea 💙4
 
 
 <!---
