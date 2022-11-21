@@ -1,8 +1,7 @@
 # Front end developer
 - 👋 Hi, I’m Fouad damisi
 - 👀 I’m interested in web development 
-- 🌱 Anything JavaScript 🧘‍♂️
-- Chelsea 💙4
+- 🌱 Anything JavaScript 🧘‍♂️.....
 
 
 <!---
