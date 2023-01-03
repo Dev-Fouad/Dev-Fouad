@@ -3,6 +3,7 @@
 - 👀 I’m interested in web development 
 - 🌱 Anything JavaScript🧘‍♂️
 - Passionate about tech🥷...
+- Learning react
 
 
 <!---
