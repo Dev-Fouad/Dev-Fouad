@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fouad damisi.</h1>
+<h1 align="center">Hi , I'm Fouad damisi.</h1>
 <h3 align="center">A passionate Frontend developer from the trenches</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-fouad" alt="dev-fouad" /></a> </p>
