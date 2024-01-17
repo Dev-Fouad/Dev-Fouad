@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Forkify](forkify-v2.netlify.app)
 
-- 🌱 I’m currently learning ** java **
+- 🌱 I’m currently learning java
 
 - 👯 I’m looking to collaborate **with any Frontend developer.**
 
